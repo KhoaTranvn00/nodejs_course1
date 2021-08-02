@@ -1,0 +1,26 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khoatran",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoaTranvn00/nodejs_course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KhoaTranvn00/nodejs_course/issues"
+  },
+  "homepage": "https://github.com/KhoaTranvn00/nodejs_course#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
